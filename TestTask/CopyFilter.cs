@@ -77,7 +77,7 @@ namespace TestTask
         }
 
         /// <summary>
-        /// Возращает доменную чать адресса
+        /// Возращает доменную чать адреса
         /// </summary>
         /// <param name="email">жлектронный адресс</param>
         /// <returns>Доменная чатсь адреса</returns>
@@ -100,7 +100,7 @@ namespace TestTask
         /// <summary>
         /// Проверяет подходит ли домен адресса под условия бизнеса
         /// </summary>
-        /// <param name="email">Адресс, который нужно проверить</param>
+        /// <param name="email">Адрес, который нужно проверить</param>
         /// <returns>true, если подходит, иначе false</returns>
         private bool IsСorrectDomen(string email)
         {
